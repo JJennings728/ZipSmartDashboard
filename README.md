@@ -1,5 +1,7 @@
 # ZIPSmart Dashboard
 
+**Portfolio context:** This repository is part of James Jennings' [Applied AI, Risk Analytics & Data Engineering portfolio](https://github.com/JJennings728/ZipSmart360/blob/main/PORTFOLIO.md).
+
 The working dashboard is maintained with its data pipeline in **[JJennings728/ZipSmart360](https://github.com/JJennings728/ZipSmart360)**. This repository is a navigation page, not a separate application.
 
 ![Dashboard illustration](https://raw.githubusercontent.com/JJennings728/ZipSmart360/main/docs/dashboard-preview.svg)
